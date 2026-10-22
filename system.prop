@@ -1,0 +1,17 @@
+# Nombre del Motorola Edge 50 Fusion (cuscoi) en la GSI One UI 9
+# Solo cambia los NOMBRES que se muestran. No toca marca, fabricante,
+# ro.product.name, ro.product.device ni las propiedades *_for_attestation.
+ro.product.marketname=Motorola Edge 50 Fusion
+ro.product.system.marketname=Motorola Edge 50 Fusion
+ro.product.product.marketname=Motorola Edge 50 Fusion
+ro.config.marketing_name=Motorola Edge 50 Fusion
+ro.csc.sales_code=PHE
+persist.omc.sales_code=PHE
+ro.csc.country_code=SPAIN
+ro.csc.countryiso_code=ES
+duct.marketname=Motorola Edge 50 Fusion
+ro.config.marketing_name=Motorola Edge 50 Fusion
+ro.csc.sales_code=PHE
+persist.omc.sales_code=PHE
+ro.csc.country_code=SPAIN
+ro.csc.countryiso_code=ES

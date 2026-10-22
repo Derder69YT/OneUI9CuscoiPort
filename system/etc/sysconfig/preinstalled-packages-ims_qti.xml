@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <allowed-system-preload package="org.codeaurora.ims" />
+    <allowed-system-preload package="vendor.qti.imsrcs" />
+    <allowed-system-preload package="org.lineageos.qtitelephony.compat" />
+    <allowed-system-preload package="com.qti.phone" />
+    <allowed-system-preload package="com.qualcomm.qti.telephonyservice" />
+    <install-in-user-type package="org.codeaurora.ims">
+        <install-in user-type="FULL" />
+        <install-in user-type="SYSTEM" />
+    </install-in-user-type>
+    <install-in-user-type package="vendor.qti.imsrcs">
+        <install-in user-type="FULL" />
+        <install-in user-type="SYSTEM" />
+    </install-in-user-type>
+    <install-in-user-type package="org.lineageos.qtitelephony.compat">
+        <install-in user-type="FULL" />
+        <install-in user-type="SYSTEM" />
+    </install-in-user-type>
+    <install-in-user-type package="com.qti.phone">
+        <install-in user-type="FULL" />
+        <install-in user-type="SYSTEM" />
+    </install-in-user-type>
+    <install-in-user-type package="com.qualcomm.qti.telephonyservice">
+        <install-in user-type="FULL" />
+        <install-in user-type="SYSTEM" />
+    </install-in-user-type>
+</config>
